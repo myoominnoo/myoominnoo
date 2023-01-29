@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @myoominnoo
+- 👋 Hi, I’m Minn
 - 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning Python & ML
 - 💞️ I’m looking to collaborate on Data Science
