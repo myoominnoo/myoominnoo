@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @myoominnoo
-- 👀 I’m interested in Machine Learning, Deep Learning & Data Science
+- 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning Python & ML
-- 💞️ I’m looking to collaborate on Python & ML projects
+- 💞️ I’m looking to collaborate on Data Science
 - 📫 Reach me at amyominoo07@gmail.com, myominnoocontact@gmail.com
 
 <!---
