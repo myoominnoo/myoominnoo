@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Minn
 - 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning Python & ML
-- 💞️ I’m looking to collaborate on Data Science
+- 💞️ I’m looking to collaborate on Data Science projects
 - 📫 Reach me at amyominoo07@gmail.com, myominnoocontact@gmail.com
 
 <!---
